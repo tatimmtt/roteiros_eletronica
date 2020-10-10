@@ -6,6 +6,10 @@ Para realizar o roteiro foi seguido os seguintes passos:
 1. Simular no lt spice
 1.  Analisar os resultados de simulação gráfica e comparar com os resultados teóricos
 
+Primeiramente foi feita a analise teórica no smath:
+![]()
+
+
 
 
 
