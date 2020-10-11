@@ -10,7 +10,7 @@ Primeiramente foi feita a análise teórica no smath:
 
 ![](https://github.com/tatimmtt/roteiros_eletronica/blob/main/prints/Smath%20teorico.png)
 
-No ltspice foi adicionado as bibliotecas externas da texas instruments spice model do LM324N e TL082 para conseguir simular o circuito com componentes que chegam perto do comportamento do componente real.
+No ltspice foi adicionado as bibliotecas externas da texas instruments spice model do LM324N e TL082 para efetuar a simulação do circuito com componentes que chegam perto do comportamento do componente real.
 
 Link que disponibiliza o modelo do LM324N: https://www.ti.com/product/LM324?keyMatch=LM324N&tisearch=Search-EN-everything&usecase=OPN
 
